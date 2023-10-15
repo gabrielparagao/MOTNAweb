@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cinzel:wght@500&display=swap');
 
 .square {
-  background-image: url("Assets/forest.jpeg");
+  background-image: url("Assets/AiGen10.jpg");
   width: 1425px;
   height: 3000px;
   position: absolute;
@@ -10,7 +10,7 @@
   z-index: -3;
 }
 .reading {
-  background-color: rgb(198, 244, 241);
+  background-color: rgb(223, 198, 244);
   width: 1425px;
   height: 250px;
   position: fixed;
@@ -20,11 +20,11 @@
   position: absolute;
   top: 100vw;
   font-size: x-large;
-  color: darkgreen;
+  color: rgb(4, 46, 4);
 }
 .box {
 
-  background-image: url("Assets/5.jpg");
+  background-image: url("Assets/AIgen43.jpg");
   background-size: 1425px;
   width: 1267px;
   height: 300px;
@@ -33,7 +33,7 @@
   font-family: monospace;
   color: paleturquoise;
   padding: 60px;
-  font-family: 'Cinzel', 'Times New Roman', Times, serif;
+  font-family: 'Cinzel-Black.ttf', 'Times New Roman', Times, serif;
   border: 20px solid black;
 }
 a:link {
@@ -67,7 +67,7 @@ a:active {
   border-radius: 500px;
   width: 200px;
   height: 200px;
-  background-image: url("Assets/3.jpg");
+  background-image: url("Assets/AiGen20.jpg");
   position: absolute;
   background-size: 500px;
   text-align: center;
@@ -84,7 +84,7 @@ a:active {
   border-radius: 200px;
   position: absolute;
   z-index: -1;
-  background-image: url("Assets/12.jpg");
+  background-image: url("Assets/AiGen32.jpg");
   background-size: 700px;
   width: 370px;
   height: 300px;
@@ -99,7 +99,7 @@ a:active {
 }
 .box4 {
   border-radius: 200px;
-  background-image: url("Assets/Sea.jpg");
+  background-image: url("Assets/AIgen45.jpg");
   background-size: 550px;
   position: absolute;
   margin-top: 30vw;
@@ -117,7 +117,7 @@ a:active {
 }
 .box5 {
   border-radius: 300px;
-  background-image: url("Assets/6.jpg");
+  background-image: url("Assets/AiGen24.jpg");
   background-size: 800px;
   color: lightpink;
   position: absolute;
@@ -135,7 +135,7 @@ a:active {
 }
 .box6 {
   border-radius: 300px;
-  background-image: url("Assets/10.jpg");
+  background-image: url("Assets/AiGen5.jpg");
   background-size: 850px;
   color: lightpink;
   position: absolute;
@@ -153,7 +153,7 @@ a:active {
 }
 .box7 {
   border-radius: 300px;
-  background-image: url("Assets/19.jpg");
+  background-image: url("Assets/AiGen1.jpg");
   background-size: 700px;
   color: lightpink;
   position: absolute;
