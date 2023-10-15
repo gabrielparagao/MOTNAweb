@@ -25,7 +25,7 @@
 }
 .box {
 
-  background-image: url("Assets/AiGenMain.jpg");
+  background-image: url("Assets/AigenMain3.jpg");
   background-size: 1425px;
   width: 1267px;
   height: 300px;
@@ -51,7 +51,7 @@ a:active {
 }
 .box1 {
   border-radius: 200px;
-  background-image: url("Assets/AiGen36.jpg");
+  background-image: url("Assets/AiGenMain.jpg");
   background-size: 300px;
   position: relative;
   width: 200px;
@@ -68,7 +68,7 @@ a:active {
   border-radius: 500px;
   width: 200px;
   height: 200px;
-  background-image: url("Assets/AiGen20.jpg");
+  background-image: url("Assets/AigenMain2.jpg");
   position: absolute;
   background-size: 500px;
   text-align: center;
@@ -100,7 +100,7 @@ a:active {
 }
 .box4 {
   border-radius: 200px;
-  background-image: url("Assets/AIgen45.jpg");
+  background-image: url("Assets/AigenMain5.jpg");
   background-size: 450px;
   position: absolute;
   margin-top: 30vw;
@@ -118,7 +118,7 @@ a:active {
 }
 .box5 {
   border-radius: 300px;
-  background-image: url("Assets/AiGen24.jpg");
+  background-image: url("Assets/AigenMain4.jpg");
   background-size: 500px;
   color: lightpink;
   position: absolute;
@@ -136,7 +136,7 @@ a:active {
 }
 .box6 {
   border-radius: 300px;
-  background-image: url("Assets/AiGen5.jpg");
+  background-image: url("Assets/AIgen61.jpg");
   background-size: 450px;
   color: lightpink;
   position: absolute;
