@@ -38,7 +38,7 @@
   border: 20px solid black;
 }
 a:link {
-  color: plum;
+  color: rgb(147, 227, 101);
 }
 a:visited {
   color: burlywood;
@@ -70,7 +70,7 @@ a:active {
   height: 200px;
   background-image: url("Assets/AiGen20.jpg");
   position: absolute;
-  background-size: 300px;
+  background-size: 500px;
   text-align: center;
   font-size: 70px;
   font-family: monospace;
@@ -86,7 +86,7 @@ a:active {
   position: absolute;
   z-index: -1;
   background-image: url("Assets/AiGen32.jpg");
-  background-size: 300px;
+  background-size: 400px;
   width: 370px;
   height: 300px;
   text-align: center;
@@ -101,7 +101,7 @@ a:active {
 .box4 {
   border-radius: 200px;
   background-image: url("Assets/AIgen45.jpg");
-  background-size: 350px;
+  background-size: 450px;
   position: absolute;
   margin-top: 30vw;
   z-index: 100;
